@@ -1,0 +1,2 @@
+# bioinfomagics
+Codes for Bioinfomagics
